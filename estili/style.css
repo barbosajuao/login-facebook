@@ -1,0 +1,46 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f0f2f5;
+}
+.centro{
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 93px;
+    padding-bottom: 132px;
+}
+.foto{
+    background-color: blue;
+    width: 40%;
+    height: 400px;
+    display: inline-block;
+    
+    
+    
+
+}
+.nome{
+   background-color: aqua;
+    width: 200px;
+    height: px;
+    
+}
+.formulario{
+    
+    background-color: rgb(186, 145, 223);
+    width: 40%;
+    height: 400px;
+    display:inline-block
+    
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+
