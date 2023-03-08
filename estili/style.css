@@ -61,7 +61,7 @@ body{
 h1{
    
     color: #166fe5;
-    font-size: 2.9em;
+    font-size: 3em;
     
     
 }
@@ -106,12 +106,12 @@ span{
 }
 .form{
     background-color: rgb(255, 255, 255);
-    width: 65%;
+    width: 70%;
     height: 70%;
     margin-top: 80px;
     margin-bottom: 30px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 2px;
     box-shadow: 0px 0px 5px rgba(93, 93, 93, 0.544);
 }
 input{
@@ -139,7 +139,7 @@ input{
     width: 170px;
     height: 50px;
     margin-top: 20px;
-    margin-left: 110px;
+    margin-left: 135px;
     background-color: #32991e;
     border-radius: 5px;
     padding-top: 2px;
@@ -153,6 +153,7 @@ input{
 }
 .esqueceu{
     margin-top: 20px;
+    margin-left: 35px;
 }
 .esqueceu > a{
     text-decoration: none;
