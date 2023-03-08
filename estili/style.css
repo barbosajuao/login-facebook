@@ -9,6 +9,7 @@ body{
     background-color: #f0f2f5;
 }
 .centro{
+    position: absolute;
     display: block;
     width: 100vw;
     height: 100vh;
